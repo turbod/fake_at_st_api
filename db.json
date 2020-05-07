@@ -1,15 +1,15 @@
 {
-  result: {
-  userKind: "organizer",
-  userId: 5399663,
-  companyId: 215486,
-  active: true,
-  firstName: "Admin",
-  lastName: "id_1090 AH",
-  fullName: null,
-  languageCode: "hu",
-  timeZone: "Europe/Amsterdam",
-  userFlags: [
+  "result": {
+  "userKind": "organizer",
+  "userId": 5399663,
+  "companyId": 215486,
+  "active": true,
+  "firstName": "Admin",
+  "lastName": "id_1090 AH",
+  "fullName": null,
+  "languageCode": "hu",
+  "timeZone": "Europe/Amsterdam",
+  "userFlags": [
   "CAN_EVALUATE",
   "COMPANY_WIDE_OBSERVER",
   "SAVE_COMPANY_TEMPLATE",
@@ -28,5 +28,5 @@
   "ORGANIZER_AUCTION_OBSERVE"
   ]
   },
-  errorMessage: null
+  "errorMessage": null
 }
