@@ -1,32 +1,32 @@
 {
-  "result": {
-  "userKind": "organizer",
-  "userId": 5399663,
-  "companyId": 215486,
-  "active": true,
-  "firstName": "Admin",
-  "lastName": "id_1090 AH",
-  "fullName": null,
-  "languageCode": "hu",
-  "timeZone": "Europe/Amsterdam",
-  "userFlags": [
-  "CAN_EVALUATE",
-  "COMPANY_WIDE_OBSERVER",
-  "SAVE_COMPANY_TEMPLATE",
-  "USER_COMPANY_ADMIN",
-  "COMPANY_DATA_ADMIN",
-  "USER_REPORT_EXCEL",
-  "ORGANIZER_RAPID_REGISTRATION",
-  "USER_REPORT_PDF",
-  "ORGANIZER_INVITE_PARTICIPANT",
-  "ORGANIZER_AUCTION_POST",
-  "USER_REPORT_HTML",
-  "EDIT_RFX",
-  "CREATE_RFX",
-  "ORGANIZER_AUCTION_CLONE",
-  "CLONE_RFX",
-  "ORGANIZER_AUCTION_OBSERVE"
-  ]
+  "result":{
+    "userKind":"organizer",
+    "userId":5399663,
+    "companyId":215486,
+    "active":true,
+    "firstName":"Admin",
+    "lastName":"id_1090 AH",
+    "fullName":null,
+    "languageCode":"hu",
+    "timeZone":"Europe/Amsterdam",
+    "userFlags":[
+      "CAN_EVALUATE",
+      "COMPANY_WIDE_OBSERVER",
+      "SAVE_COMPANY_TEMPLATE",
+      "USER_COMPANY_ADMIN",
+      "COMPANY_DATA_ADMIN",
+      "USER_REPORT_EXCEL",
+      "ORGANIZER_RAPID_REGISTRATION",
+      "USER_REPORT_PDF",
+      "ORGANIZER_INVITE_PARTICIPANT",
+      "ORGANIZER_AUCTION_POST",
+      "USER_REPORT_HTML",
+      "EDIT_RFX",
+      "CREATE_RFX",
+      "ORGANIZER_AUCTION_CLONE",
+      "CLONE_RFX",
+      "ORGANIZER_AUCTION_OBSERVE"
+    ]
   },
-  "errorMessage": null
+  "errorMessage":null
 }
